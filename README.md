@@ -1,2 +1,2 @@
-# simple_rrdtool_example
-Playing with rrdtool, scripts based on tutorial by calomel.org
+Scripts based on the first example of this nice rrdtool tutorial hosted at
+https://calomel.org/rrdtool.html
